@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body {
     background-image:url("images/background.png");
     background-size: cover;
@@ -45,4 +46,53 @@ p {
     width: 180px;
     margin-left: 1100px;
     margin-top: 600px;
+=======
+body {
+    background-image:url("images/background.png");
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+.title {
+    display: inline-block;
+    position: absolute;
+    font-family: 'Courier New', Courier, monospace;
+    color: #A9C6FF;
+    font-size: 40pt;
+    background-color: white;
+    width: 600px;
+    height: 60px;
+    margin-top: 70px;
+    margin-left: 900px;
+    padding: 10px;
+    border: 5px solid #A9C6FF;
+    border-radius: 20px;
+}
+p {
+    display: inline-block;
+    position: absolute;
+    font-family: 'Courier New', Courier, monospace;
+    color: #E5826D;
+    font-size: 20pt;
+    font-weight: bold;
+    background-color: white;
+    width: 600px;
+    height: fit-content;
+    margin-top: 180px;
+    margin-left: 900px;
+    padding: 10px;
+    border: 5px solid #E5826D;
+    border-radius: 20px;
+}
+.doggy {
+    position: absolute;
+    width: 750px;
+    margin-left: 70px;
+}
+.treat {
+    position: absolute;
+    width: 180px;
+    margin-left: 1100px;
+    margin-top: 600px;
+>>>>>>> ed6493bba004562275154d6d06bb82f94b9b42fd
 }
